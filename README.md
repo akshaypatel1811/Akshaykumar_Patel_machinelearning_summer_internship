@@ -8,5 +8,6 @@ Task_2 Visualize Labour Data by industry pivotable by age, sex:
 Task_3 Train data using LSTM to predict the data over time:
 
 References:
-Statistics Canada.  Table  14-10-0023-01   Labour force characteristics by industry, annual (x 1,000)
-Statistics Canada.  Table  14-10-0017-01   Labour force characteristics by sex and detailed age group, monthly, unadjusted for seasonality (x 1,000)
+[1]Statistics Canada.  Table  14-10-0023-01   Labour force characteristics by industry, annual (x 1,000)
+
+[2]Statistics Canada.  Table  14-10-0017-01   Labour force characteristics by sex and detailed age group, monthly, unadjusted for seasonality (x 1,000)
