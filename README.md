@@ -25,7 +25,8 @@ Data Visualization challenge for summer internship challenge
 [5] More information can be find in my Task_2 jupyter notebook.    
 
 
-References:
+## References:
+
 [1]Statistics Canada.  Table  14-10-0023-01   Labour force characteristics by industry, annual (x 1,000)
 
 [2]Statistics Canada.  Table  14-10-0017-01   Labour force characteristics by sex and detailed age group, monthly, unadjusted for seasonality (x 1,000)
