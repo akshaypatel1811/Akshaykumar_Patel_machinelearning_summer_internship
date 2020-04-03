@@ -1,7 +1,7 @@
 ## prepr_machine_learning_summer_internship_challange
 Data Visualization challenge for summer internship challenge
 
-Task_1 Visualize Labour Data by province pivotable by age, sex and industry / sector:
+# Task_1 Visualize Labour Data by province pivotable by age, sex and industry / sector:
 
 [1] Data we taken from statcan website references are given below.
 
@@ -11,7 +11,7 @@ Task_1 Visualize Labour Data by province pivotable by age, sex and industry / se
 
 
 
-Task_2 Train data using LSTM to predict the data over time:
+# Task_2 Train data using LSTM to predict the data over time:
 
 [1] I have used job_skills.csv file as data source and predict the category based on preferred qualification using LSTM as for text         squence model Recurrent Neural Network work better than the other.
 
