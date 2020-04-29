@@ -3,7 +3,7 @@ Data Visualization challenge for summer internship challenge
 
 ## Task_1 Visualize Labour Data by province pivotable by age, sex and industry / sector:
 
-[1] Data we taken from statcan website references are given below.
+[1] Data were taken from statcan website references are given below.
 
 [2] I have provided visualization sample for each pivotable for one province and for the other provience we can derive same with the         code given in the notebook. 
 
